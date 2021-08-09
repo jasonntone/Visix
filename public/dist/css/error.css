@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Georama:wght@300&display=swap");
+* {
+  top: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: auto;
+  flex-direction: column;
+  font-family: "Georama", sans-serif;
+}
